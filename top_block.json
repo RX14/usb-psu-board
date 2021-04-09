@@ -1,0 +1,62 @@
+{
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {
+        "50e91c4e-a491-4c4d-8e0c-b5d2bb2c0a14": {
+            "connections": {},
+            "custom_pin_names": {},
+            "entity": "12c51a77-79ca-4cee-bb04-3e835955f3a0",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "pin_names": {},
+            "refdes": "J?",
+            "tag": "fafbb4e8-411b-4d41-a1cf-6fe49642dc59",
+            "value": ""
+        },
+        "c8832278-9eb0-4f1e-ae0f-54c9537623d3": {
+            "connections": {},
+            "custom_pin_names": {},
+            "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "pin_names": {},
+            "refdes": "J?",
+            "tag": "4c81ee0f-d133-4448-8f3a-6b64a357cde6",
+            "value": ""
+        }
+    },
+    "group_names": {},
+    "name": "",
+    "net_class_default": "e2422d08-f9ee-4b05-a6f5-b3bcd76afc77",
+    "net_classes": {
+        "e2422d08-f9ee-4b05-a6f5-b3bcd76afc77": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2021-04-09",
+        "project_name": "usb-psu-board",
+        "project_title": "USB PSU Board",
+        "rev": "1"
+    },
+    "tag_names": {
+        "4c81ee0f-d133-4448-8f3a-6b64a357cde6": "1",
+        "fafbb4e8-411b-4d41-a1cf-6fe49642dc59": "0"
+    },
+    "uuid": "8fe4161a-03d1-417a-8256-111cd6b12c54"
+}

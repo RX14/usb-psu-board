@@ -1,0 +1,110 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "8fe4161a-03d1-417a-8256-111cd6b12c54",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "single_pin_net": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "096cd506-3946-4ee2-a03e-787370e201f8": {
+            "arcs": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "c4ca0500-85c4-4744-a625-e9ecbb900a88",
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "Main",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {
+                "333282e2-2f70-4f6f-9c49-68601eed9483": {
+                    "component": "50e91c4e-a491-4c4d-8e0c-b5d2bb2c0a14",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            111250000,
+                            106250000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "ae714667-eec9-4045-89ba-f021cb4fba6e",
+                    "texts": []
+                },
+                "7b862f48-9841-457f-aee5-53281f6cedd5": {
+                    "component": "c8832278-9eb0-4f1e-ae0f-54c9537623d3",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": true,
+                        "shift": [
+                            176250000,
+                            120000000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "5b7a580f-fa81-4cde-84c2-9da30ebc9c5a",
+                    "texts": []
+                }
+            },
+            "texts": {
+                "6c487e14-cd7c-484b-8ced-56dc9a2c3dd2": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            170000000,
+                            111250000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "TODO:\n- USB A\n- Upstream USB-C\n- ADUM4160",
+                    "width": 0
+                }
+            },
+            "title_block_values": {
+                "license": "CC BY-SA 4.0"
+            }
+        }
+    },
+    "title_block_values": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2021-04-09",
+        "project_name": "usb-psu-board",
+        "project_title": "USB PSU Board",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "b4cca0ec-1046-47f3-815c-1bbcbe5e6b4e",
+    "version": 1
+}
