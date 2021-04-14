@@ -864,8 +864,10 @@
                     0
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "2f7a74b6-e1b4-4b6c-8eca-212110fef9de"
+            ]
         },
         "06bf88da-a4ee-40ba-a804-b0ac5947155a": {
             "component": "9bc3fd38-dd60-4e42-97fc-a22413530e93",
@@ -912,8 +914,10 @@
                     -1500000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "cd908cf9-5c08-469f-b53c-0f2e6d7242b4"
+            ]
         },
         "11ea4256-5f77-412d-b551-2950da5e6a27": {
             "component": "d3658d3a-8919-4e5a-a600-3ba652870f9e",
@@ -928,8 +932,10 @@
                     16000000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "f2b8f6d3-e2cd-4d60-913f-9f9eaa35fd16"
+            ]
         },
         "1436b98c-ad33-4398-a5d8-db96bb5d4355": {
             "component": "526ae14b-0b5a-4f8d-af4f-57f044420136",
@@ -960,8 +966,10 @@
                     2500000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "f867990f-1d77-410f-b783-04572d73b58b"
+            ]
         },
         "2fd9681d-2c6a-4bc7-b2b5-a259809451c8": {
             "component": "6911e723-60a8-4a21-b2c3-1c69cd47da60",
@@ -1045,8 +1053,10 @@
                     -6000000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "84f7ceed-3a0f-4cc5-b8c0-7f8b5868a2d0"
+            ]
         },
         "7adaaebe-5489-494d-a497-de25c062da39": {
             "component": "275528e9-4714-4006-9b36-7974e1fb9d68",
@@ -1077,8 +1087,10 @@
                     15000000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "0fa374be-4364-4be9-8f70-8d6423c1391b"
+            ]
         },
         "9c188aa8-6623-44f5-9ffd-136d580e1e7a": {
             "component": "c006f276-e3a7-46aa-8950-ca52632eddb6",
@@ -1111,8 +1123,10 @@
                     4000000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "6c87c803-94bf-41f5-862f-56f66bc226d6"
+            ]
         },
         "b5328012-873b-4b87-9d38-821e38330396": {
             "component": "287b4a89-8ac7-49fe-96e3-fc3812edbfe8",
@@ -1143,8 +1157,10 @@
                     -2250000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "cf9c1d02-b336-4b8e-b007-3b16d68170cf"
+            ]
         },
         "e0cc6528-4bc9-4c7d-a33d-77061a5d95db": {
             "component": "f66b39db-da52-44e6-9094-8ed7aa4665b2",
@@ -1191,8 +1207,10 @@
                     16000000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "03cad4d9-8572-4809-91b2-bb416ae17bc8"
+            ]
         },
         "f315afe3-9704-48ce-8879-cc3c9f9a0249": {
             "component": "9efaa05b-eadf-4e38-a792-1ccc04a9ac8c",
@@ -2229,6 +2247,74 @@
         "prefix": ""
     },
     "texts": {
+        "03cad4d9-8572-4809-91b2-bb416ae17bc8": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": true,
+                "shift": [
+                    -250000,
+                    15250000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "0fa374be-4364-4be9-8f70-8d6423c1391b": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    7750000,
+                    16250000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "2f7a74b6-e1b4-4b6c-8eca-212110fef9de": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    18500000,
+                    1250000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "6c87c803-94bf-41f5-862f-56f66bc226d6": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    -2000000,
+                    5250000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
         "7b115e50-9e75-43d8-956d-d65a7818ed50": {
             "font": "simplex",
             "from_smash": true,
@@ -2243,6 +2329,23 @@
                 ]
             },
             "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "84f7ceed-3a0f-4cc5-b8c0-7f8b5868a2d0": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    -1000000,
+                    -8000000
+                ]
+            },
+            "size": 800000,
             "text": "$RD",
             "width": 150000
         },
@@ -2297,6 +2400,40 @@
             "text": "$RD",
             "width": 150000
         },
+        "cd908cf9-5c08-469f-b53c-0f2e6d7242b4": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    18500000,
+                    -2750000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "cf9c1d02-b336-4b8e-b007-3b16d68170cf": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    -17500000,
+                    -1000000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
         "e908bfe2-d007-4e2f-a7f4-404b64ea6c6a": {
             "font": "simplex",
             "from_smash": true,
@@ -2308,6 +2445,40 @@
                 "shift": [
                     3500000,
                     3750000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "f2b8f6d3-e2cd-4d60-913f-9f9eaa35fd16": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": true,
+                "shift": [
+                    4000000,
+                    15000000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "f867990f-1d77-410f-b783-04572d73b58b": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    -2000000,
+                    1250000
                 ]
             },
             "size": 1000000,
