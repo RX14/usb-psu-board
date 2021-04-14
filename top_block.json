@@ -299,6 +299,24 @@
             "tag": "a363d34d-efa6-4ffb-9bb9-b0578b8fbe03",
             "value": ""
         },
+        "7f34e6bd-76b5-4198-bfc3-67f546f695b9": {
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "75372f50-31d3-45dc-8da4-46f6c39e5b21"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "d20248fd-35d2-43f3-99dc-d9e6f47473f4"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "19a69b6d-ec0d-4a8f-abed-710f527f06eb",
+            "pin_names": {},
+            "refdes": "C6",
+            "tag": "ad958456-f379-4f0d-a56d-1530558af067",
+            "value": ""
+        },
         "9bc3fd38-dd60-4e42-97fc-a22413530e93": {
             "connections": {
                 "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
