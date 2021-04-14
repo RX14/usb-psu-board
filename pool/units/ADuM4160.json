@@ -1,0 +1,92 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "ADuM4160",
+    "pins": {
+        "27cd6de0-82ac-4045-96b9-ab1a37645b97": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DD+",
+            "swap_group": 0
+        },
+        "338ccdae-9425-4e8a-b501-e4da04abc9be": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UD-",
+            "swap_group": 0
+        },
+        "3f1e0221-928d-49a1-a954-45838b5f4415": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DD-",
+            "swap_group": 0
+        },
+        "79d3afae-928b-404c-abd8-0dfcaecff58e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "819ab35d-62e0-40fe-bca0-305fd45288b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBUS1",
+            "swap_group": 0
+        },
+        "8a41bb38-e15a-412f-b1b2-d549798583e5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD1",
+            "swap_group": 0
+        },
+        "8ffd0c69-bb6c-4d77-9fc4-6ca4f7d3fd0a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "9e4b70bb-b22b-45a0-8a91-4a4253d0740f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPU",
+            "swap_group": 0
+        },
+        "ad80b874-206a-4e96-bc7e-b8dfa547bfbe": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PIN",
+            "swap_group": 0
+        },
+        "b0845379-0af2-4f66-85d4-a5897d448a43": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD2",
+            "swap_group": 0
+        },
+        "b49ff7a3-4c06-4187-a04f-91162dab4776": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UD+",
+            "swap_group": 0
+        },
+        "d75b27d4-e837-42c2-9eba-aa617b03949a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PDEN",
+            "swap_group": 0
+        },
+        "d76b3e8f-6c8f-4a7c-a1bf-57927cbe1cfc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBUS2",
+            "swap_group": 0
+        },
+        "eb7565b8-1bb3-4e9a-a4eb-9b759542cf28": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "704c1e63-6df6-42ef-b2fe-78e896474759"
+}

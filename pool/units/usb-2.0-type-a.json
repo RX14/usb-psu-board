@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Jing Extension of the Electronic Co.",
+    "name": "USB 2.0 Type A",
+    "pins": {
+        "0d4a00d4-130f-4acb-bded-39d4fc140c03": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "472d6610-dacf-4dba-8ecc-48da93d0589b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "Shield",
+            "swap_group": 0
+        },
+        "686b4a33-c18b-40a6-a0e0-9a5d8fc5ee2e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bc9677ac-ca3a-452a-86fa-6eec6d92d36c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "cba28ec6-1acb-4bd9-9193-21c251316e7b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1f2540b0-6d8d-4d8c-b75e-f9cc1b8118d1"
+}

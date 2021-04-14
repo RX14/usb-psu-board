@@ -1,0 +1,159 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "221b8d51-20fa-442f-8e1d-a962c78bd259": {
+            "position": [
+                -9500000,
+                -20500000
+            ]
+        },
+        "29d51851-a902-4612-836c-dd9f04127088": {
+            "position": [
+                9500000,
+                -15500000
+            ]
+        },
+        "f0e91fd1-29b7-4633-a8d2-35ded5565f4f": {
+            "position": [
+                9500000,
+                -20500000
+            ]
+        },
+        "ffb06281-91bc-40c4-abd0-3a91a978ca79": {
+            "position": [
+                -9500000,
+                -15500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "245e69b0-97d6-4504-8c72-aa828f9d6349": {
+            "from": "ffb06281-91bc-40c4-abd0-3a91a978ca79",
+            "layer": 20,
+            "to": "221b8d51-20fa-442f-8e1d-a962c78bd259",
+            "width": 500000
+        },
+        "fdfa9db6-5f8a-4879-bbd3-d27c20d51bee": {
+            "from": "29d51851-a902-4612-836c-dd9f04127088",
+            "layer": 20,
+            "to": "f0e91fd1-29b7-4633-a8d2-35ded5565f4f",
+            "width": 500000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "banana-plug-connector",
+    "pads": {
+        "61582d6e-fc77-4053-a4c7-0e342d48748f": {
+            "name": "2",
+            "padstack": "549ce255-6721-44db-9d47-ec07764772ca",
+            "parameter_set": {
+                "pad_height": 15000000,
+                "pad_width": 20000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    11000000,
+                    -7500000
+                ]
+            }
+        },
+        "a46e1d3c-725f-4370-8a42-534879f31059": {
+            "name": "1",
+            "padstack": "549ce255-6721-44db-9d47-ec07764772ca",
+            "parameter_set": {
+                "pad_height": 15000000,
+                "pad_width": 20000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -11000000,
+                    -7500000
+                ]
+            }
+        }
+    },
+    "parameter_program": "42.000mm 15.000mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm -7.500mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
+    "polygons": {
+        "9cfd96ec-96d4-44da-a882-852c111c84ba": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -21250000,
+                        -15250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -21250000,
+                        250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21250000,
+                        250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21250000,
+                        -15250000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "6e0e1f7c-4f51-4271-b524-02362bf40918"
+}

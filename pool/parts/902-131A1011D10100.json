@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "902-131A1011D10100"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/2102261732_Jing-Extension-of-the-Electronic-Co-902-131A1011D10100_C2345.pdf"
+    ],
+    "description": [
+        false,
+        "USB 2.0 Type A Receptable"
+    ],
+    "entity": "261c5969-0eea-4a45-99eb-d030f79ff35f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Jing Extension of the Electronic Co."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "76f6c024-205a-4338-8ab5-2e61dcd18d0f",
+    "pad_map": {
+        "0443faaf-b9f8-43fa-9670-9df94d1f1a96": {
+            "gate": "32b022a1-1d33-49b3-94c0-c6b7e23ebd27",
+            "pin": "bc9677ac-ca3a-452a-86fa-6eec6d92d36c"
+        },
+        "475755d0-8290-43e3-8c0c-c7eecbbb0818": {
+            "gate": "32b022a1-1d33-49b3-94c0-c6b7e23ebd27",
+            "pin": "472d6610-dacf-4dba-8ecc-48da93d0589b"
+        },
+        "5723ad9d-4604-4acd-9501-827595849a69": {
+            "gate": "32b022a1-1d33-49b3-94c0-c6b7e23ebd27",
+            "pin": "472d6610-dacf-4dba-8ecc-48da93d0589b"
+        },
+        "66c83c29-f0e3-41dd-9420-3dabd6167af4": {
+            "gate": "32b022a1-1d33-49b3-94c0-c6b7e23ebd27",
+            "pin": "0d4a00d4-130f-4acb-bded-39d4fc140c03"
+        },
+        "d0ccfcf2-b5bb-4161-8345-253a9a61708f": {
+            "gate": "32b022a1-1d33-49b3-94c0-c6b7e23ebd27",
+            "pin": "cba28ec6-1acb-4bd9-9193-21c251316e7b"
+        },
+        "fcb0ed58-d1cd-4d92-9876-119a46e8fe7f": {
+            "gate": "32b022a1-1d33-49b3-94c0-c6b7e23ebd27",
+            "pin": "686b4a33-c18b-40a6-a0e0-9a5d8fc5ee2e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "type-a",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "127f6155-e2a5-45fd-8c11-fc344e9a75d2",
+    "value": [
+        false,
+        ""
+    ]
+}

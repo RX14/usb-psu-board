@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "32b022a1-1d33-49b3-94c0-c6b7e23ebd27": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1f2540b0-6d8d-4d8c-b75e-f9cc1b8118d1"
+        }
+    },
+    "manufacturer": "Jing Extension of the Electronic Co.",
+    "name": "USB 2.0 Type A",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "261c5969-0eea-4a45-99eb-d030f79ff35f"
+}

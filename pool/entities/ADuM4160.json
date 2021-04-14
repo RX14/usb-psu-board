@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "dfebf21d-c3dd-4e1a-b779-47ef39659524": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "704c1e63-6df6-42ef-b2fe-78e896474759"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "ADuM4160",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "isolator",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "6a60fb18-9034-4b9d-8389-97c5e4951bca"
+}
