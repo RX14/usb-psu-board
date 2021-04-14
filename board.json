@@ -2467,7 +2467,7 @@
         "b758f63b-a55f-4ece-bed9-15914bac5133": {
             "font": "simplex",
             "from_smash": false,
-            "layer": 100,
+            "layer": 200,
             "origin": "center",
             "placement": {
                 "angle": 0,
