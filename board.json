@@ -23,7 +23,7 @@
     "fab_output_settings": {
         "drill_mode": "merged",
         "drill_npth": "-npth.txt",
-        "drill_pth": ".txt",
+        "drill_pth": ".drl",
         "layers": {
             "-100": {
                 "enabled": true,
@@ -41,7 +41,7 @@
                 "layer": -120
             },
             "-130": {
-                "enabled": true,
+                "enabled": false,
                 "filename": ".gbp",
                 "layer": -130
             },
@@ -66,14 +66,14 @@
                 "layer": 20
             },
             "30": {
-                "enabled": true,
+                "enabled": false,
                 "filename": ".gtp",
                 "layer": 30
             }
         },
-        "output_directory": "",
+        "output_directory": "fab",
         "prefix": "usb-psu-board",
-        "zip_output": false
+        "zip_output": true
     },
     "holes": {},
     "junctions": {
