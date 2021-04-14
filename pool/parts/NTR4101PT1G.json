@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "NTR4101PT1G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pdf/datasheet/ntr4101p-d.pdf"
+    ],
+    "description": [
+        false,
+        "P-Channel MOSFET, 20V, 2.4A, 85mΩ"
+    ],
+    "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "568c8b4c-34d4-4290-a4ac-7d8f5024d86a",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet"
+    ],
+    "type": "part",
+    "uuid": "4453a74f-c3e2-46f3-bc10-90891e7e4d70",
+    "value": [
+        false,
+        ""
+    ]
+}
