@@ -91,7 +91,7 @@
                 "335528dd-fae5-4014-b0ac-7ef5a85c11db": {
                     "position": [
                         70000000,
-                        87500000
+                        83750000
                     ]
                 },
                 "33b75f64-20a1-4212-a7d9-dd05439b4245": {
@@ -120,8 +120,8 @@
                 },
                 "4a9284ab-7f13-4b54-a21b-d118d921e0ff": {
                     "position": [
-                        95000000,
-                        87500000
+                        116250000,
+                        83750000
                     ]
                 },
                 "50933411-503e-4ba5-9c37-8a90796c8ac9": {
@@ -486,7 +486,7 @@
                 },
                 "e40eadef-6f35-41fb-83f4-511920d8cc76": {
                     "position": [
-                        95000000,
+                        116250000,
                         102500000
                     ]
                 },
@@ -2154,6 +2154,7 @@
                 },
                 "7b862f48-9841-457f-aee5-53281f6cedd5": {
                     "component": "c8832278-9eb0-4f1e-ae0f-54c9537623d3",
+                    "custom_value": "Innards from 2x Changzhou\nAmass Elec 25.413.2\nsoldered to pads",
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
@@ -2170,7 +2171,8 @@
                     "smashed": true,
                     "symbol": "5b7a580f-fa81-4cde-84c2-9da30ebc9c5a",
                     "texts": [
-                        "152d56d9-9aef-4818-b0e3-e078914cb2fc"
+                        "25669b60-5c2e-4bbc-b199-e03bf2a294f7",
+                        "0e6745d8-f882-4219-ba29-586aa4f5ffe5"
                     ]
                 },
                 "8323750c-e3cb-4cf6-9914-07bf2de1aec3": {
@@ -2438,7 +2440,24 @@
                     "text": "$REFDES",
                     "width": 0
                 },
-                "152d56d9-9aef-4818-b0e3-e078914cb2fc": {
+                "0e6745d8-f882-4219-ba29-586aa4f5ffe5": {
+                    "font": "simplex",
+                    "from_smash": true,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            85000000,
+                            90000000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "$VALUE",
+                    "width": 0
+                },
+                "25669b60-5c2e-4bbc-b199-e03bf2a294f7": {
                     "font": "simplex",
                     "from_smash": true,
                     "layer": 0,
