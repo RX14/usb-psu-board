@@ -2127,10 +2127,66 @@
                 "routing_offset": 50000
             }
         },
-        "clearance_same_net": {},
+        "clearance_same_net": {
+            "1b86bef1-9850-47fc-8960-62c7da61c2fc": {
+                "clearances": [
+                    {
+                        "clearance": 200000,
+                        "types": [
+                            "pad",
+                            "pad_th"
+                        ]
+                    },
+                    {
+                        "clearance": -1,
+                        "types": [
+                            "pad",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 200000,
+                        "types": [
+                            "pad",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 200000,
+                        "types": [
+                            "pad_th",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 200000,
+                        "types": [
+                            "pad_th",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 200000,
+                        "types": [
+                            "via",
+                            "hole_npth"
+                        ]
+                    }
+                ],
+                "enabled": true,
+                "layer": 10000,
+                "match": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "e2422d08-f9ee-4b05-a6f5-b3bcd76afc77",
+                    "net_name_regex": ""
+                },
+                "order": 0
+            }
+        },
         "clearance_silkscreen_exposed_copper": {
-            "clearance_bottom": 100000,
-            "clearance_top": 100000,
+            "clearance_bottom": 150000,
+            "clearance_top": 150000,
             "enabled": true,
             "order": -1
         },
